@@ -27,6 +27,21 @@ projects:
     forks: true
     projects:
     - FL-12
+    - tasks_part1
+    - playlist
+    - node-js-home-work-13
+    - node-js-home-work-12
+    - color_game
+    - creative-design-agency
+    - facility-test
+    - company-data
+    - lp-auto
+    - tinyone
+    - david-landing
+    - wp-test-cahee
+    - our-team
+    - statistic
+    - drag-and-drop
 
 # social_media:
   # behance: your_username
